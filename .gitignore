@@ -5,3 +5,4 @@
 target
 deploy
 dependency-reduced-pom.xml
+.idea/
